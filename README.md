@@ -13,4 +13,4 @@ Os dados são armazenados em um arquivo `.txt`, garantindo que todos os chamados
 ## Estrutura
 - **main.py** – Controla o menu e o fluxo principal do sistema  
 - **funcoes.py** – Contém toda a lógica de criação, listagem, validações, cancelamento e salvamento  
-- **chamados.txt** – Arquivo onde os chamados são gravados 
+- **chamados.txt** – Arquivo onde os chamados são gravados
