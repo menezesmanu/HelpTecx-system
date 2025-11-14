@@ -1,0 +1,2 @@
+1|Manu|Tablet|Não liga|Aberto
+2|Luiz|Notebook|não carrega|Cancelado
